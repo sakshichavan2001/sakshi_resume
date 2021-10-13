@@ -13,6 +13,7 @@ h1 {
 h2 {
   margin: 0;
   font-weight: 400;
+  padding-left: 0.5rem;
   display: inline-block;
 }
 
@@ -73,6 +74,7 @@ h2 {
   font-size: 1.5rem;
   margin-right: 0.5rem;
   margin-top: 0%;
+  padding-right: 1 rem;
 }
 
 table {
@@ -90,7 +92,7 @@ th {
 }
 
 .PHOTO {
-  margin-left: 200px;
+  margin-left: 100px;
   margin-top: 5px;
   margin-bottom: 0%;
   height:180px;
@@ -127,4 +129,8 @@ th {
 .skilltable{
   border: none;
   padding: 0.4rem; 
+}
+
+.p {
+  font-weight: bold;
 }
